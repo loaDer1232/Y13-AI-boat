@@ -13,7 +13,7 @@
 		-how do we stop people training AI in a way that is detramental to other people  
   
    
-##Foucsed resharch and anylisis
+## Foucsed resharch and anylisis
 
 O|p|v|l|links
 :--:|:--:|:--:|:--:|:--:
